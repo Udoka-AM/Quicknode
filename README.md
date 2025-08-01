@@ -333,16 +333,16 @@ async function updateProductStage(productAccount, newStage, updateAuthority) {
    ```
 
 4. **Optimize for Mobile**: 
-   Given the prevalence of mobile internet in Africa, optimize your dApps for mobile devices:
+   Given the prevalence of mobile internet in Africa, optimise your dApps for mobile devices:
 
    ```javascript
    // Use responsive design in your frontend
-   // Minimize data transfer
+   //Minimise data transfer
    // Implement offline capabilities where possible
    ```
 
 5. **Regular Monitoring**:
-   Utilize QuickNode's monitoring tools to keep track of your application's performance and resource usage.
+   Utilise QuickNode's monitoring tools to keep track of your application's performance and resource usage.
 
 ## 8. Conclusion
 
