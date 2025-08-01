@@ -350,4 +350,4 @@ By leveraging the powerful infrastructure Quicknode offers and following these b
 
 Remember to stay engaged with both the African and global Solana developer communities. Share your experiences, contribute to open-source projects, and continue pushing the boundaries of what's possible with blockchain technology in Africa.
 
-As you embark on your Solana development journey with QuickNode, you're not just building applications; you're shaping the future of blockchain technology in Africa. Embrace the challenges, leverage the tools at your disposal, and create solutions that will drive the continent forward in the decentralized era.
+As you embark on your Solana development journey with QuickNode, you're not just building applications; you're helping to shape the future of blockchain technology in Africa. Embrace the challenges, leverage the tools at your disposal, and create solutions that will drive the continent forward in the decentralized era.
