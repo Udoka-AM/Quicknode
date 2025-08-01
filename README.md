@@ -11,7 +11,7 @@
    5.3 [WebSockets for Real-Time Data](#websockets-for-real-time-data)
    5.4 [NFT API Integration](#nft-api-integration)
 6. [Building African-Centric Solana dApps with QuickNode](#building-african-centric-solana-dapps-with-quicknode)
-7. [Best Practices and Optimization Tips](#best-practices-and-optimization-tips)
+7. [Best Practices and Optimization Tips](# best-practices-and-optimisation-tips)
 8. [Conclusion](#conclusion)
 
 ## 1. Introduction
