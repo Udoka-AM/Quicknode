@@ -72,7 +72,7 @@ African developers often face unique challenges. Here's how QuickNode can help a
    ```
 
 2. **Limited Access to Developer Resources**:
-   QuickNode provides extensive documentation and support. Utilize their learning resources, and join developer communities for knowledge sharing.
+   QuickNode provides extensive documentation and support. Utilise their learning resources and join developer communities for knowledge sharing.
 
 3. **Power Outages**:
    Implement state management and data persistence in your applications to handle unexpected disconnections:
