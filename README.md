@@ -95,7 +95,7 @@ African developers often face unique challenges. Here's how QuickNode can help a
    ```
 
 4. **Limited Hardware Resources**:
-   Optimize your code for efficiency. Use QuickNode's powerful infrastructure to offload heavy computations:
+   Optimise your code for efficiency. Use QuickNode's powerful infrastructure to offload heavy computations:
 
    ```javascript
    // Instead of this (which may be heavy on local resources):
@@ -120,7 +120,7 @@ African developers often face unique challenges. Here's how QuickNode can help a
    );
    ```
 
-## 5. Maximizing QuickNode Features
+## 5. Maximising QuickNode Features
 
 ### 5.1 High-Performance RPC Endpoints
 
