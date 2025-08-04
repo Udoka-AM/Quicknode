@@ -1,11 +1,11 @@
-# Maximizing QuickNode for Solana Development: An African Developer's Guide
+# Maximising QuickNode for Solana Development: An African Developer's Guide
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Understanding QuickNode and Its Importance](#understanding-quicknode-and-its-importance)
 3. [Setting Up QuickNode for Solana](#setting-up-quicknode-for-solana)
 4. [Overcoming African-Specific Challenges](#overcoming-african-specific-challenges)
-5. [Maximizing QuickNode Features](#maximizing-quicknode-features)
+5. [Maximising QuickNode Features](#maximizing-quicknode-features)
    5.1 [High-Performance RPC Endpoints](#high-performance-rpc-endpoints)
    5.2 [Add-ons and Analytics](#add-ons-and-analytics)
    5.3 [WebSockets for Real-Time Data](#websockets-for-real-time-data)
