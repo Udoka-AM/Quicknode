@@ -16,7 +16,7 @@
 
 ## 1. Introduction
 
-As an African developer venturing into the world of Solana blockchain development, you're part of a growing community that's shaping the future of decentralized finance and applications on the continent. This guide will help you maximize the use of QuickNode, a powerful blockchain infrastructure provider, to overcome unique challenges and build innovative Solana applications tailored to African needs.
+As an African developer venturing into the world of Solana blockchain development, you're part of a growing community that's shaping the future of decentralised finance and applications on the continent. This guide will help you maximize the use of QuickNode, a powerful blockchain infrastructure provider, to overcome unique challenges and build innovative Solana applications tailored to African needs.
 
 ## 2. Understanding QuickNode and Its Importance
 
@@ -159,7 +159,7 @@ console.log('Transaction Trace:', traceResponse);
 
 2. **Analytics**: Monitor your dApp's performance and usage patterns.
 
-Access analytics data through the QuickNode dashboard to optimize your application based on usage patterns specific to your African user base.
+Access analytics data through the QuickNode dashboard to optimise your application based on usage patterns specific to your African user base.
 
 ### 5.3 WebSockets for Real-Time Data
 
@@ -185,7 +185,7 @@ connection.onProgramAccountChange(
 
 ### 5.4 NFT API Integration
 
-For projects involving digital art or tokenized assets (e.g., representing ownership of physical goods), use QuickNode's NFT API:
+For projects involving digital art or tokenised assets (e.g., representing ownership of physical goods), use QuickNode's NFT API:
 
 ```javascript
 const axios = require('axios');
