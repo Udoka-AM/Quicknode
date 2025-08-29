@@ -122,7 +122,7 @@ African developers often face unique challenges. Here's how QuickNode can help a
 
 ## 5. Maximising QuickNode Features
 
-### 5.1 High-Performance RPC Endpoints
+### 5.1 High-Performance RPC Endpoints 
 
 QuickNode's RPC endpoints offer superior performance. Here's how to make the most of them:
 
